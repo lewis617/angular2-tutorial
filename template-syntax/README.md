@@ -1,6 +1,5 @@
-# ng2-webpack-play
+# template-syntax
 
-A minimal Angular2 playground using TypeScript and WebPack
 
 ## Installation
 
