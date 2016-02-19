@@ -14,7 +14,7 @@ import {Lifecycle} from './lifecycle'
       Set 'condition' to {{condition ? 'False': 'True'}}
       </button>
 
-      <lifecycle *myUnless="condition"></lifecycle>
+      <lifecycle *myUnless="condition" name="lewis"></lifecycle>
     `
 })
 export class App {
