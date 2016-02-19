@@ -1,15 +1,6 @@
 import {Component,Input} from 'angular2/core';
 import {bootstrap} from 'angular2/platform/browser';
-import {
-  OnChanges, SimpleChange,
-  OnInit,
-  // DoCheck,  // not demonstrated
-  AfterContentInit,
-  AfterContentChecked,
-  AfterViewInit,
-  AfterViewChecked,
-  OnDestroy
-} from 'angular2/core';
+import {OnChanges, SimpleChange,OnInit,AfterContentInit,AfterContentChecked,AfterViewInit,AfterViewChecked,OnDestroy} from 'angular2/core';
 
 @Component({
     selector: "lifecycle",
@@ -21,8 +12,7 @@ import {
     `
 })
 export class Lifecycle
-implements OnChanges, OnInit,AfterContentInit,AfterContentChecked,
-             AfterViewInit, AfterViewChecked, OnDestroy{
+implements OnChanges, OnInit,AfterContentInit,AfterContentChecked,AfterViewInit, AfterViewChecked, OnDestroy{
     @Input()
     name:string
     doSomething(){
@@ -34,7 +24,7 @@ implements OnChanges, OnInit,AfterContentInit,AfterContentChecked,
     }
     ngOnInit(){console.log('onInit');}
     ngOnDestroy(){console.log('OnDestroy')}
-    ngOnChanges(){console.log('ngOnChanges')}
+    ngOnChanges(changes: {[propertyName: string]: SimpleChange}){console.log('ngOnChanges',changes)}
     ngAfterContentInit(){console.log('AfterContentInit')}
     ngAfterContentChecked(){console.log('AfterContentChecked')}
     ngAfterViewInit(){console.log('AfterViewInit')}
