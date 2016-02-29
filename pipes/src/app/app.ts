@@ -1,5 +1,4 @@
 import {Component} from 'angular2/core';
-import {bootstrap} from 'angular2/platform/browser';
 import {PowerBooster} from './stateless/power-booster.component';
 import {HeroListComponent} from './stateful/hero-list.component';
 
