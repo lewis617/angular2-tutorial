@@ -1,5 +1,4 @@
 import {Component} from 'angular2/core';
-import {bootstrap} from 'angular2/platform/browser';
 
 @Component({
     selector: 'app',
@@ -18,5 +17,3 @@ export class App {
     }
     isActive:boolean=true;
 }
-
-bootstrap(App);
