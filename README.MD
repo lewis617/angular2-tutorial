@@ -10,7 +10,7 @@
 
 [angular2系列教程（五）Structural directives、再谈组件生命周期](http://www.cnblogs.com/lewis617/p/5201631.html)
 
-[angular2系列教程（六）升级装备、pipe](http://www.cnblogs.com/lewis617/p/5216381.html)
+[angular2系列教程（六）pipe](http://www.cnblogs.com/lewis617/p/5216381.html)
 
 [angular2系列教程（七）service](http://www.cnblogs.com/lewis617/p/5227183.html)
 
