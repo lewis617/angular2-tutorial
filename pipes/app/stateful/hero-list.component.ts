@@ -4,11 +4,11 @@ import {FetchJsonPipe} from './fetch-json.pipe';
   selector: 'hero-list',
   template: `
     <h4>Heroes from JSON File</h4>
-    <div *ngFor="#hero of ('pipes/heroes.json' | fetch) ">
+    <div *ngFor="#hero of ('heroes.json' | fetch) ">
       {{hero.name}}
     </div>
     <p>Heroes as JSON:
-    {{'pipes/heroes.json' | fetch | json}}
+    {{'heroes.json' | fetch | json}}
     </p>
   `,
   pipes: [FetchJsonPipe]
