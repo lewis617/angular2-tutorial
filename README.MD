@@ -16,6 +16,8 @@
 
 [angular2系列教程（八）In-memory web api、HTTP服务、依赖注入、Observable](http://www.cnblogs.com/lewis617/p/5302147.html)
 
+[angular2系列教程（九）Jsonp、URLSearchParams、中断选择数据流](http://www.cnblogs.com/lewis617/p/5302639.html)
+
 连载中……
 
 *如果您觉得本程序或者博客帮到了您，就赏颗星吧！*
