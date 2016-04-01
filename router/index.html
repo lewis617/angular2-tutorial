@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Set the base href -->
+    <script>document.write('<base href="' + document.location + '" />');</script>
+    
+    <title>Router Sample</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- IE required polyfills, in this exact order -->
+    <script src="lib/es6-shim.min.js"></script>
+    <script src="lib/system-polyfills.js"></script>
+    <script src="lib/shims_for_IE.js"></script>
+
+    <script src="lib/angular2-polyfills.js"></script>
+    <script src="lib/system.js"></script>
+    <script src="lib/typescript.js"></script>
+    <script src="lib/Rx.js"></script>
+    <script src="lib/angular2.dev.js"></script>
+    
+    <!-- Add the router library -->
+    <script src="lib/router.dev.js"></script>
+    
+    <script>
+      System.config({
+        transpiler: 'typescript', 
+        typescriptOptions: { emitDecoratorMetadata: true }, 
+        packages: {'app': {defaultExtension: 'ts'}} 
+      });
+      System.import('app/main')
+            .then(null, console.error.bind(console));
+    </script>
+  </head>
+
+  <body>
+    <my-app>loading...</my-app>
+  </body>
+
+</html>
+
+
+<!-- 
+Copyright 2016 Google Inc. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+-->
