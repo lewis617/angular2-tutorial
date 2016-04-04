@@ -10,13 +10,15 @@
 
 [angular2系列教程（五）Structural directives、再谈组件生命周期](http://www.cnblogs.com/lewis617/p/5201631.html)
 
-[angular2系列教程（六）pipe](http://www.cnblogs.com/lewis617/p/5216381.html)
+[angular2系列教程（六）两种pipe：函数式编程与面向对象编程](http://www.cnblogs.com/lewis617/p/5216381.html)
 
-[angular2系列教程（七）service](http://www.cnblogs.com/lewis617/p/5227183.html)
+[angular2系列教程（七）Injectable、Promise、Interface、使用服务](http://www.cnblogs.com/lewis617/p/5227183.html)
 
 [angular2系列教程（八）In-memory web api、HTTP服务、依赖注入、Observable](http://www.cnblogs.com/lewis617/p/5302147.html)
 
 [angular2系列教程（九）Jsonp、URLSearchParams、中断选择数据流](http://www.cnblogs.com/lewis617/p/5302639.html)
+
+[angular2系列教程（十）base href、两种启动方法、两个路由服务、引用类型和单例模式的妙用](http://www.cnblogs.com/lewis617/p/5352307.html)
 
 连载中……
 
