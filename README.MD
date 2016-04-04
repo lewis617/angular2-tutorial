@@ -18,7 +18,7 @@
 
 [angular2系列教程（九）Jsonp、URLSearchParams、中断选择数据流](http://www.cnblogs.com/lewis617/p/5302639.html)
 
-[angular2系列教程（十）base href、两种启动方法、两个路由服务、引用类型和单例模式的妙用](http://www.cnblogs.com/lewis617/p/5352307.html)
+[angular2系列教程（十）两种启动方法、两个路由服务、引用类型和单例模式的妙用](http://www.cnblogs.com/lewis617/p/5352307.html)
 
 连载中……
 
