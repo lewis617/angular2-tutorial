@@ -20,6 +20,7 @@
 
 [angular2系列教程（十）两种启动方法、两个路由服务、引用类型和单例模式的妙用](http://www.cnblogs.com/lewis617/p/5352307.html)
 
-连载中……
+[angular2系列教程（十一）路由嵌套、路由生命周期、matrix URL notation](http://www.cnblogs.com/lewis617/p/5352427.html)
+
 
 *如果您觉得本程序或者博客帮到了您，就赏颗星吧！*
