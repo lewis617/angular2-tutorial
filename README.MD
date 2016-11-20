@@ -1,6 +1,6 @@
 该教程所有demo演示地址：[http://lewis617.github.io/angular2-tutorial/](http://lewis617.github.io/angular2-tutorial/)
 ## Angular2系列教程
-[Angular2系列教程（二）模板语法](https://lewis617.github.io/2016/02/15/ng2-hello/)
+[Angular2系列教程（一）hello world](https://lewis617.github.io/2016/02/15/ng2-hello/)
 
 [Angular2系列教程（二）模板语法](https://lewis617.github.io/2016/02/15/ng2-temlate/)
 
