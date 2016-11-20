@@ -1,26 +1,26 @@
 该教程所有demo演示地址：[http://lewis617.github.io/angular2-tutorial/](http://lewis617.github.io/angular2-tutorial/)
 ## Angular2系列教程
-[angular2系列教程（一）hello world](http://www.cnblogs.com/lewis617/p/5191007.html)
+[Angular2系列教程（二）模板语法](https://lewis617.github.io/2016/02/15/ng2-hello/)
 
-[angular2系列教程（二）模板语法](http://www.cnblogs.com/lewis617/p/5192939.html)
+[Angular2系列教程（二）模板语法](https://lewis617.github.io/2016/02/15/ng2-temlate/)
 
-[angular2系列教程（三）components](http://www.cnblogs.com/lewis617/p/5195223.html)
+[Angular2系列教程（三）Components](https://lewis617.github.io/2016/02/16/ng2-component/)
 
-[angular2系列教程（四）Attribute directives](http://www.cnblogs.com/lewis617/p/5197481.html)
+[Angular2系列教程（四）Attribute directives](https://lewis617.github.io/2016/02/17/ng2-attribute-directive/)
 
-[angular2系列教程（五）Structural directives、再谈组件生命周期](http://www.cnblogs.com/lewis617/p/5201631.html)
+[Angular2系列教程（五）Structural directives、再谈组件生命周期](https://lewis617.github.io/2016/02/19/ng2-structural-directive/)
 
-[angular2系列教程（六）两种pipe：函数式编程与面向对象编程](http://www.cnblogs.com/lewis617/p/5216381.html)
+[Angular2系列教程（六）两种pipe：函数式编程与面向对象编程](https://lewis617.github.io/2016/02/24/ng2-pipe/)
 
-[angular2系列教程（七）Injectable、Promise、Interface、使用服务](http://www.cnblogs.com/lewis617/p/5227183.html)
+[Angular2系列教程（七）Injectable、Promise、Interface、使用服务](https://lewis617.github.io/2016/02/28/ng2-service/)
 
-[angular2系列教程（八）In-memory web api、HTTP服务、依赖注入、Observable](http://www.cnblogs.com/lewis617/p/5302147.html)
+[Angular2系列教程（八）In-memory web api、HTTP服务、依赖注入、Observable](https://lewis617.github.io/2016/03/20/ng2-http-1/)
 
-[angular2系列教程（九）Jsonp、URLSearchParams、中断选择数据流](http://www.cnblogs.com/lewis617/p/5302639.html)
+[Angular2系列教程（九）Jsonp、URLSearchParams、中断选择数据流](https://lewis617.github.iohttps://lewis617.github.io/2016/03/21/ng2-http-2/)
 
-[angular2系列教程（十）两种启动方法、两个路由服务、引用类型和单例模式的妙用](http://www.cnblogs.com/lewis617/p/5352307.html)
+[Angular2系列教程（十）两种启动方法、两个路由服务、引用类型和单例模式的妙用](https://lewis617.github.iohttps://lewis617.github.io/2016/04/04/ng2-router-1/)
 
-[angular2系列教程（十一）路由嵌套、路由生命周期、matrix URL notation](http://www.cnblogs.com/lewis617/p/5352427.html)
+[Angular2系列教程（十一）路由嵌套、路由生命周期、matrix URL notation](https://lewis617.github.io/2016/04/04/ng2-router-2/)
 
 
 *如果您觉得本程序或者博客帮到了您，就赏颗星吧！*
