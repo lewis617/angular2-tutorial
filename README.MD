@@ -33,8 +33,4 @@
 
 [React+Reflux入门教程](https://lewis617.github.io/2016/01/13/react-reflux/)
 
-## 算法随笔集
-
-[算法随笔集](https://github.com/lewis617/algorithms-essay)
-
 *如果您觉得本程序或者博客帮到了您，就赏颗星吧！*
