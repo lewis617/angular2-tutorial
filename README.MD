@@ -25,5 +25,16 @@
 
 [Angular2系列教程（十一）路由嵌套、路由生命周期、matrix URL notation](https://lewis617.github.io/2016/04/04/ng2-router-2/)
 
+## React+Redux系列教程
+
+[React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
+
+## React+Reflux教程
+
+[React+Reflux入门教程](https://lewis617.github.io/2016/01/13/react-reflux/)
+
+## 算法随笔集
+
+[算法随笔集](https://github.com/lewis617/algorithms-essay)
 
 *如果您觉得本程序或者博客帮到了您，就赏颗星吧！*
