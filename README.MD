@@ -25,6 +25,10 @@
 
 [Angular2系列教程（十一）路由嵌套、路由生命周期、matrix URL notation](https://lewis617.github.io/2016/04/04/ng2-router-2/)
 
+## Angular2系列教程（续）
+
+[TypeScript: Angular 2 的秘密武器（译）](https://lewis617.github.io/2016/12/23/typescript-angular2-secret-weapon/)
+
 ## React+Redux系列教程
 
 [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
