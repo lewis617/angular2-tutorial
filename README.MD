@@ -1,5 +1,3 @@
-> 公告：[《React与Redux开发实例精解》出版了！](https://lewis617.github.io/2016/11/20/r2-book/)
-
 该教程所有demo演示地址：[http://lewis617.github.io/angular2-tutorial/](http://lewis617.github.io/angular2-tutorial/)
 
 > 注意：该教程写于2016年2月，是基于Angular2 beta版本讲解的，与最新稳定版本有部分差异（某些API和术语），请选择性参考，并以最新的官网文档为主！
