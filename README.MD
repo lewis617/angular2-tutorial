@@ -1,5 +1,3 @@
-> 公告：[《React与Redux开发实例精解》出版了！](https://lewis617.github.io/2016/11/20/r2-book/)
-
 ## Angular2系列教程
 [Angular2系列教程（一）hello world](https://lewis617.github.io/2016/02/15/ng2-hello/)
 
@@ -29,10 +27,8 @@
 
 [TypeScript: Angular 2 的秘密武器（译）](https://lewis617.github.io/2016/12/23/typescript-angular2-secret-weapon/)
 
-## React+Redux系列教程
+## 其他教程
 
 [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
 
-## React+Reflux教程
-
-[React+Reflux入门教程](https://lewis617.github.io/2016/01/13/react-reflux/)
+[JavaScript 版数据结构与算法](https://github.com/lewis617/javascript-datastructures-algorithms)
