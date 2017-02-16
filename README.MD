@@ -29,6 +29,6 @@
 
 ## 其他教程
 
-### [React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
+[React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
 
-### [JavaScript 版数据结构与算法](https://github.com/lewis617/javascript-datastructures-algorithms)
+[JavaScript 版数据结构与算法](https://github.com/lewis617/javascript-datastructures-algorithms)
