@@ -26,9 +26,3 @@
 ## Angular2系列教程（续）
 
 [TypeScript: Angular 2 的秘密武器（译）](https://lewis617.github.io/2016/12/23/typescript-angular2-secret-weapon/)
-
-## 其他技术博客
-
-[React+Redux系列教程](https://github.com/lewis617/react-redux-tutorial)
-
-[JavaScript 版数据结构与算法](https://github.com/lewis617/javascript-datastructures-algorithms)
